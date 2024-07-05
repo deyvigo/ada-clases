@@ -1,0 +1,123 @@
+[
+  {
+    "asesor": "Gabriel",
+    "clientes": [
+      {"cliente": "Ana"},
+      {"cliente": "Pedro"},
+      {"cliente": "María"},
+      {"cliente": "Luis"},
+      {"cliente": "Laura"},
+      {"cliente": "Carlos"},
+      {"cliente": "Sofía"},
+      {"cliente": "Diego"},
+      {"cliente": "Elena"},
+      {"cliente": "Juan"}
+    ]
+  },
+  {
+    "asesor": "Sofía",
+    "clientes": [
+      {"cliente": "Manuel"},
+      {"cliente": "Julia"},
+      {"cliente": "David"},
+      {"cliente": "Lucía"},
+      {"cliente": "Pablo"},
+      {"cliente": "Carmen"},
+      {"cliente": "Javier"},
+      {"cliente": "Valeria"},
+      {"cliente": "Alejandro"}
+    ]
+  },
+  {
+    "asesor": "Mateo",
+    "clientes": [
+      {"cliente": "Fernanda"},
+      {"cliente": "Martín"},
+      {"cliente": "Isabella"},
+      {"cliente": "Andrés"},
+      {"cliente": "Valentina"},
+      {"cliente": "Francisco"},
+      {"cliente": "Camila"},
+      {"cliente": "Gonzalo"},
+      {"cliente": "Renata"}
+    ]
+  },
+  {
+    "asesor": "Valentina",
+    "clientes": [
+      {"cliente": "Tomás"},
+      {"cliente": "Paula"},
+      {"cliente": "Miguel"},
+      {"cliente": "Gabriela"},
+      {"cliente": "Santiago"},
+      {"cliente": "Victoria"},
+      {"cliente": "Emilio"},
+      {"cliente": "Daniela"}
+    ]
+  },
+  {
+    "asesor": "Miguel",
+    "clientes": [
+      {"cliente": "Mateo"},
+      {"cliente": "Eva"},
+      {"cliente": "Bruno"},
+      {"cliente": "Natalia"},
+      {"cliente": "Alex"},
+      {"cliente": "Raquel"},
+      {"cliente": "Fernando"},
+      {"cliente": "Alba"}
+    ]
+  },
+  {
+    "asesor": "Lorena",
+    "clientes": [
+      {"cliente": "Joaquín"},
+      {"cliente": "Adriana"},
+      {"cliente": "Hugo"},
+      {"cliente": "Mónica"},
+      {"cliente": "Lucas"},
+      {"cliente": "Elsa"}
+    ]
+  },
+  {
+    "asesor": "Diego",
+    "clientes": [
+      {"cliente": "Irene"},
+      {"cliente": "Maximiliano"},
+      {"cliente": "Mariana"},
+      {"cliente": "Eduardo"},
+      {"cliente": "Olivia"},
+      {"cliente": "Roberto"}
+    ]
+  },
+  {
+    "asesor": "Ana",
+    "clientes": [
+      {"cliente": "Alicia"},
+      {"cliente": "Ricardo"},
+      {"cliente": "Catalina"},
+      {"cliente": "Felipe"},
+      {"cliente": "Sara"}
+    ]
+  },
+  {
+    "asesor": "Lucía",
+    "clientes": [
+      {"cliente": "Emilia"},
+      {"cliente": "Matías"},
+      {"cliente": "Carolina"},
+      {"cliente": "Gustavo"},
+      {"cliente": "Nerea"},
+      {"cliente": "Federico"}
+    ]
+  },
+  {
+    "asesor": "Juan",
+    "clientes": [
+      {"cliente": "Isabel"},
+      {"cliente": "Sebastián"},
+      {"cliente": "Estefanía"},
+      {"cliente": "Héctor"}
+    ]
+  }
+]
